@@ -1,0 +1,54 @@
+body{
+    font-family: Calibri;
+    background-color: #99ffff;
+    text-align:center;
+}
+
+
+
+h1{
+    font-size: 40px;
+    color: blue;
+
+}
+
+.font{
+    font-style: italic;
+}
+
+img{
+    width: 700px;
+    border: 6px white solid;
+    padding: 5px;
+}
+
+#tom{
+    border: 2px solid green;
+    padding: 20px;
+
+}
+
+#search{
+    width:200px;
+    height: 20px;
+    border-radius: 10px;
+    text-align: center;
+}
+#search:hover{
+    width:500px;
+    height: 20px;
+    border-radius: 10px;
+}
+
+.button{
+    background-color: green;
+    padding: 8px;
+    border-radius: 10px;
+    font-size: 16px;
+    color: black;
+    text-decoration: none;
+}
+.button:hover{
+    padding: 15px;
+    background-color: blue;
+}
